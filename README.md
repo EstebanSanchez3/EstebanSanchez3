@@ -24,15 +24,15 @@ Haciendo varios **cursos** en el camino como: <br>
 
 ## Siguiente paso 💪 <br>
 📅 **_2022/2023_**  
-<br> 💼 Cuando terminé las prácticas en empresa, estube contratado ✨ en dicha empresa **(Creative Quality)** con un contrato de **cuatro meses** de duración, realizando **Desarollo Web horientado al FrontEnd**. <br>
+<br> 💼 Cuando terminé las prácticas en empresa, estube contratado ✨ en dicha empresa **(Creative Quality)** con un contrato de **cuatro meses** de duración, realizando **Desarollo Web orientado al FrontEnd**. <br>
 Terminando en octubre de 2022 en el que a día de hoy, fue el mejor trabajo de mi vida. <br>
 ___
-💼 En diciembre de 2022, fuí seleccionado en un plan de empleo para el ayuntamiento de granada, realizando tareas de **Administrador de Bae de Datos**, con una duración de **seis meses**, terminando en junio de 2023. <br>
+💼 En diciembre de 2022, fuí seleccionado en un plan de empleo para el ayuntamiento de granada, realizando tareas de **Administrador de Base de Datos**, con una duración de **seis meses**, terminando en junio de 2023. <br>
 <br> 📅 **_2023/2024_** <br>
 <br> 📚 A la par que estaba trabajando en el ayuntamiendo de granada, empecé un **CFGS Desarollo de Aplicaciones Web**, estando en este momento en mi último semestre.
 
 ## En la actualidad 👀
-En este momento me encuentro en busqueda activa de empleo, y entre entrevistas y postulaciones, estoy subiendo un par de cosas a esta humilde cuenta de GitHub, gracias por leer hasta aquí ¡Un gran saludo!. <br>
-Por aquí os dejo mis repositorios hasta el momento 😄.
+En este momento me encuentro en **busqueda activa de empleo**, y entre entrevistas y postulaciones, estoy subiendo un par de cosas a esta humilde cuenta de GitHub, **gracias por leer hasta aquí** ¡Un gran saludo!. <br>
+Por aquí os dejo **mis repositorios hasta el momento** 😄.
 
 
